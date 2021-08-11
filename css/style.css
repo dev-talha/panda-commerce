@@ -1,0 +1,52 @@
+html {
+   scroll-behavior: smooth;
+}
+.mb-100 {
+   margin-bottom: 100px;
+}
+.main-slider .slider {
+   background-color: #fceae8;
+   padding: 25px;
+   border-radius: 8px;
+}
+.main-slider .slider h2 {
+   font-size: 40px;
+   color: #ff136f;
+}
+.btn-bg {
+   background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+.categories .single-category {
+   padding: 10px 20px;
+   border-radius: 8px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-bottom: 20px;
+}
+.cat-1 {
+   background-color: orange;
+}
+.cat-2 {
+   background-color: orchid;
+}
+.cat-3 {
+   background-color: blue;
+}
+.categories .single-category img {
+   width: 100px;
+}
+.categories .single-category p {
+   font-size: 40px;
+   color: white;
+   font-weight: 500;
+}
+.Bags .card-footer {
+   background-color: White;
+   border-top: none;
+}
+.contact .container {
+   background-color: #fceae8;
+   padding: 75px 0;
+   border-radius: 8px;
+}
